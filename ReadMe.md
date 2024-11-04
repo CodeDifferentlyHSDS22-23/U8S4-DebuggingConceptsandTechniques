@@ -1,4 +1,4 @@
-# U7S4 Debugging Concepts
+# U8S4 Debugging Concepts
 
 * Part A - Foundations 8.4
 
